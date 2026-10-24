@@ -1,0 +1,23 @@
+[main]
+font=JetBrainsMono Nerd Font:size=12
+pad=24x24
+
+[colors-dark]
+background=15121a
+foreground=d0bfae
+regular0=15121a
+regular1=c4553b
+regular2=8a8f7a
+regular3=b8967a
+regular4=7f8aa0
+regular5=9a7f8e
+regular6=8fa5a8
+regular7=c9c6c2
+bright0=4a4550
+bright1=d9694e
+bright2=a0a58f
+bright3=cdaa8c
+bright4=c5d5ea
+bright5=b595a6
+bright6=a9c1c4
+bright7=f0eeea
