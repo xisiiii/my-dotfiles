@@ -1,0 +1,23 @@
+[main]
+font=JetBrainsMono Nerd Font:size=12
+prompt="> "
+width=40
+lines=10
+horizontal-pad=24
+vertical-pad=20
+inner-pad=10
+
+[colors]
+background=15121aff
+text=d0bfaeff
+prompt=b9a999ff
+input=e6e4e1ff
+match=c4553bff
+selection=b9a999ff
+selection-text=15121aff
+selection-match=c4553bff
+border=b9a999ff
+
+[border]
+width=4
+radius=0
